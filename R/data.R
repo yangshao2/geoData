@@ -20,3 +20,13 @@
 #' plot(city)
 "city"
 
+#' Census Data
+#'
+#' This dataset contains Census data.
+#'
+#' @format An sf object.
+#' @usage data(censusdata)
+#' @examples
+#' data(censusdata)
+#' plot(censusdata)
+"censusdata"
